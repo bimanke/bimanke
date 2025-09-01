@@ -23,6 +23,10 @@
 
 -  📫 **How to reach me:** **bipinmanke519@gmail.com**
 
+-  💡 **Fun Fact** : **I automate things so I can blame code, not humans. 😜
+     I deploy faster than my internet connection. 🚀**
+
+
 
 
 ## 🌐 Socials:
@@ -57,8 +61,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-💡 **Fun Fact** : **I automate things so I can blame code, not humans. 😜
-     I deploy faster than my internet connection. 🚀**
 
 
 ### ✍️ Random Dev Quote
