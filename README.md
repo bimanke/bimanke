@@ -16,7 +16,7 @@
 - 💻 Passionate **DevOps & Cloud Engineer** with expertise in **AWS, Azure**.
 - 🚀 Automating Infrastructure using **Terraform**.
 - 🐳 Containerizing applications with **Docker** & **Kubernetes**.
-- 🔄 CI/CD Enthusiast: **Jenkins | GitHub Actions | GitLab CI/CD**.
+- 🔄 CI/CD Enthusiast: **Azure CI/CD | GitHub Actions |**.
 - 📡 Monitoring & Logging with **Prometheus | Grafana**.
 - 🔥 Always learning and sharing knowledge about **Cloud & DevOps**.
 - 🌱 I’m currently learning: **kubernates**
